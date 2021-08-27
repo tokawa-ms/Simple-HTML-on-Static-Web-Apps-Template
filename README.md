@@ -1,6 +1,6 @@
 # Simple-HTML-on-Static-Web-Apps-Template
 
-##What's this repo?
+## What's this repo?
 このリポジトリは、単純な HTML ファイル と CSS ファイル、それに画像などのアセットのみで構成される静的サイトを Azure Static Web Apps でホストする際の非公式のテンプレートとして使えるように構成しました。
 
 ## How to Use
